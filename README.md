@@ -40,3 +40,5 @@ if there are some errors appeared after importing the project to intelliJ
 
 *Rright click and run Feature:categoriess
 
+*Note:- Make sure to start http://localhost:3030
+
