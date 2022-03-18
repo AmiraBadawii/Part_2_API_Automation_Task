@@ -24,7 +24,7 @@ This Repo contains TCs and API testing code and include an explanation of the se
 
 #Task_2_WithCucumber
 --------------------
-*Also you can Check Task_2_WithCucumber  contains feature file covering all testing scenario
+*Also you can Check Task_2_WithCucumber  contains feature file covering all testing scenarios
 
 *import /Part_2_API_Automation_Task/Task_2_WithCucumber to intelliJ
 
