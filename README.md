@@ -14,7 +14,7 @@ This Repo contains TCs and API testing code and include an explanation of the se
 
 *check the automation script
 
-*Run TCs exists in src/test/java/categoriesTCs.java
+*Run TCs exist in src/test/java/categoriesTCs.java
 
 *Note:- Make sure to start http://localhost:3030
 
