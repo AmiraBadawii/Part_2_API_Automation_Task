@@ -22,7 +22,8 @@ public class categoriesTCs {
     {
         return new Object[][] {
                 {"TV & Home Theater",2},
-                {"TV & Internet Service Providers",1}
+                {"TV & Internet Service Providers",1},
+                {"TV & Home Theater",10}  // Invalid parameters wrong total number
         };
     }
 
@@ -45,7 +46,8 @@ public class categoriesTCs {
     public  static Object[] postData()
     {
         return new Object[][] {
-                {"pcmcat12349","New Category"}
+                {"pcmcat12339","New Category"},  // create  category with unique id
+                {"pcmcat12339","New Category"}   // create another category with the id of  already existing one should be failed
         };
     }
     @Test(dataProvider ="postData",priority=2)
